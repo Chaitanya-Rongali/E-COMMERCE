@@ -42,7 +42,7 @@ npm start`
 If you need help with the project, you can reach out through the following channels:
 - GitHub Issues – Report bugs and ask questions by opening an issue in the repository.
 - Email Support – Contact us at 📧chaitanya.rongali@everest.engineering.
-### 5.Who Maintains and Contributes to the Project
+### 6.Who Maintains and Contributes to the Project
 This project is maintained by the  development team.
 **Project Maintainers:**
 - [chaitanya] - Lead Developer ([GitHub Profile](https://github.com/chaitanya-rongali))
