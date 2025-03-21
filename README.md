@@ -1,18 +1,18 @@
-*Tittle:
+# Tittle:
     E-Commerce Web Application
-*OVERVIEW OF THIS APPLICATION:
+# OVERVIEW OF THIS APPLICATION:
 The project is a full-stack e-commerce web application .
 It includes features like adding items to a cart, wishlist functionality, secure checkout, user authentication, and order tracking.
 The application is built using ReactJS for the frontend, Node.js & Express.js for the backend, and MySQL for the database.
- *Why This Project is Useful*
+ # Why This Project is Useful
 This project is used to adding items to a cart, wishlist functionality, secure checkout, user authentication, and order tracking.
 
-*Getting Started*
+# Getting Started
  **1. Clone the Repository**
-```bash
+`bash
 git clone https://github.com/your-Chaitanya-Rongali/ecommerce-app.git
 cd ecommerce-app
-```
+`
 
  **3. Install Dependencies**
 #### **Frontend**
