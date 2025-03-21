@@ -19,7 +19,8 @@ cd ecommerce-app
 `bash
 cd client
 npm install
-`
+`  
+
  **Backend**
 `bash
 cd server
