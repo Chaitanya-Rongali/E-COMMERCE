@@ -16,10 +16,10 @@ cd ecommerce-app
 
  **3. Install Dependencies**
 #### **Frontend**
-```bash
+`bash
 cd client
 npm install
-```
+`
  **Backend**
 ```bash
 cd server
