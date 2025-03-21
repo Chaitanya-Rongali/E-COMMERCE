@@ -21,27 +21,27 @@ cd client
 npm install
 `
  **Backend**
-```bash
+`bash
 cd server
-npm install
+npm install`
 
-4.START THE APPKLICATION
-#### **Run Backend Server**
-```bash
+# 4.START THE APPKLICATION
+**Run Backend Server**
+`bash
 cd server
 npm start
-```
+`
  **Run Frontend**
-```bash
+`bash
 cd client
-npm start
- 5.Where to Get Help**
+npm start`
+# 5.Where to Get Help**
 If you need help with the project, you can reach out through the following channels:
 - GitHub Issues – Report bugs and ask questions by opening an issue in the repository.
 - Email Support – Contact us at 📧chaitanya.rongali@everest.engineering.
- 5.*Who Maintains and Contributes to the Project*
+# 5.Who Maintains and Contributes to the Project
 This project is maintained by the  development team.
-*Project Maintainers:*
+**Project Maintainers:**
 - [chaitanya] - Lead Developer ([GitHub Profile](https://github.com/chaitanya-rongali))
 - [Chaithu] - Backend Developer ([GitHub Profile](https://github.com/chaithu)).
 
