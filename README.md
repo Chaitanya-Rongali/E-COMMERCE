@@ -38,7 +38,7 @@ npm start
 cd client
 npm start`  
 
-### 5.Where to Get Help**
+### 5.Where to Get Help
 If you need help with the project, you can reach out through the following channels:
 - GitHub Issues – Report bugs and ask questions by opening an issue in the repository.
 - Email Support – Contact us at 📧chaitanya.rongali@everest.engineering.
