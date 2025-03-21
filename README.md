@@ -14,7 +14,7 @@ git clone https://github.com/your-Chaitanya-Rongali/ecommerce-app.git
 cd ecommerce-app
 `
 
-### 3. Install Dependencies**
+### 3. Install Dependencies
 **Frontend**
 `bash
 cd client
